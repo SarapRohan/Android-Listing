@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Card View</string>
+    <string name="element_text">Element</string>
+    <string name="grid_layout_manager">Grid Layout Manager</string>
+    <string name="linear_layout_manager">Linear Layout Manager</string>
+    <string name="starting_from">starting from</string>
+    <string name="price_exclusive_of_fuel">price exclusive of fuel</string>
+</resources>
